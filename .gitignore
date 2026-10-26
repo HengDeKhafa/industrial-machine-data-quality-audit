@@ -1,0 +1,13 @@
+# Virtual Environment Python
+.venv/
+venv/
+# Cache Python
+__pycache__/
+*.py[cod]
+# File rahasia atau pengaturan lokal
+.env
+#Cache Jupyter NoteBook
+.ipynb_checkpoints/
+#File sistem operasi
+Thumbs.db
+.DS_Store
