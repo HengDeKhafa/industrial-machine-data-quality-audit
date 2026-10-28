@@ -22,3 +22,10 @@ Petunjuk instalasi dan cara menjalankan notebook akan ditambahkan di sini.
 ## Batasan
 Temuan statistik menunjukkan data yang perlu ditinjau lebih lanjut.
 Temuan tersebut tidak membuktikan penyebab kerusakan mesin atau kondisi mesin nyata.
+
+## Isi Proyek
+
+- `01_data_quality_audit.ipynb` — notebook analisis kualitas data.
+- `ai4i2020.csv` — dataset yang digunakan.
+- `dataset_notes.md` — sumber dan keterangan kolom dataset.
+- `Requirements.txt` — daftar library Python yang diperlukan.
